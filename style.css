@@ -676,8 +676,9 @@ a {
     margin: auto auto auto auto;
 }
 
+/*font size de 11px a 15px*/
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
